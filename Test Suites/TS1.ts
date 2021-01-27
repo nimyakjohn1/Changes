@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>92bfcb07-6641-4ef8-88b2-1aa34db29d06</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b491b28-5844-4bcb-9e94-d16da4d1008d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fa2007a9-f63c-4fd0-a9f5-e470c899b41c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/EDA/TD1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fa2007a9-f63c-4fd0-a9f5-e470c899b41c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>afc4a422-18d3-4c4c-9e21-06a2fb620284</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa2007a9-f63c-4fd0-a9f5-e470c899b41c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Feedback</value>
+         <variableId>114e3c94-2b43-4af6-bbdb-409da2ccc995</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa2007a9-f63c-4fd0-a9f5-e470c899b41c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Feedback</value>
+         <variableId>99258c99-78b5-43cd-baa2-df643d105b7c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
